@@ -1,0 +1,2 @@
+model,horizon_hours,station,mae,rmse,r2,training_seconds,test_samples
+ExtraTrees,1,Wanshouxigong,12.020012487530458,25.48233726020463,0.938967970188696,1262.6326656341553,5176

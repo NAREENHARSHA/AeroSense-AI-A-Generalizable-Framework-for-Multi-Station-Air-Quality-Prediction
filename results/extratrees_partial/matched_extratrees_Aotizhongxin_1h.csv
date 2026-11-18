@@ -1,0 +1,2 @@
+model,horizon_hours,station,train_samples,validation_samples,test_samples,mae,rmse,r2,training_seconds
+ExtraTrees,1,Aotizhongxin,226706,37585,5173,10.880355531860959,20.46452323365108,0.9520154236214609,1095.0643830299377
